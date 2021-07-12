@@ -3,7 +3,7 @@ class Security {
     constructor(){
         this.access1=createInput("code1");
         this.access2=createInput("code1");
-        this.access2=createInput("code1");
+        this.access3=createInput("code1");
 
        // this.access1.position(100,90);
         //this.access2.position(700,200);
